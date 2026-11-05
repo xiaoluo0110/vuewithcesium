@@ -1,0 +1,1 @@
+const e="/geo-tilesets",s=[{id:"gongcheng",name:"工程地质 (gongcheng)",url:`${e}/gongcheng/tileset.json`},{id:"jichu",name:"基础地质 (jichu)",url:`${e}/jichu/tileset.json`},{id:"shuiwen",name:"水文地质 (shuiwen)",url:`${e}/shuiwen/tileset.json`}],n={digDepthMeters:80,circleRadiusMeters:40,shapeType:"polygon"};export{n as d,s as g};

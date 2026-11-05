@@ -1,0 +1,48 @@
+{
+  "sourceUrl": "https://data.mars3d.cn/file/apidemo/uav-route.json",
+  "tilesetPath": "D:\\易图\\Data\\FUTIAN_MASH\\tileset.json",
+  "originalCenter": {
+    "lng": 106.57118970390238,
+    "lat": 29.2734719341463,
+    "alt": 292.8939024390235
+  },
+  "futianAnchor": {
+    "lng": 114.04455381017107,
+    "lat": 22.54522694402862,
+    "ellipsoidHeight": 42.12539056273
+  },
+  "futianTilesetExtent": {
+    "west": 113.98738552604652,
+    "east": 114.10167943573097,
+    "south": 22.499987571170617,
+    "north": 22.590441576092875
+  },
+  "transformOrigin": {
+    "lng": 114.19450716486458,
+    "lat": 22.59770510835873,
+    "ellipsoidHeight": -1.1406325468715177e-9
+  },
+  "offset": {
+    "deltaLng": 7.47336410626869,
+    "deltaLat": -6.72824499011768,
+    "deltaAlt": -100.76851187629353
+  },
+  "pointCount": 205,
+  "futianRouteExtent": {
+    "west": 114.0437975,
+    "east": 114.045106,
+    "south": 22.5448459,
+    "north": 22.545916
+  },
+  "futianAltRange": [
+    102.4,
+    252
+  ],
+  "defaultFlyView": {
+    "lng": 114.04455381017107,
+    "lat": 22.54522694402862,
+    "alt": 900,
+    "heading": 25,
+    "pitch": -40
+  }
+}
